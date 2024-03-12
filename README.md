@@ -27,7 +27,9 @@ def circulate():\
     print("After circulating the values are:",list1[n:]+list1[:n])
 
 ## Output:
+![Screenshot (321)](https://github.com/Bhavyashree2403/Circulate-the-values-of-N-variables/assets/149219738/14d2b3bd-6ae8-42ab-a2eb-69f83d551728)
 ![alt text](<Screenshot (296).png>)
 ![alt text](<Screenshot (297).png>)
+
 ## Result:
 The output for circulate the values of n variables is successfull.
